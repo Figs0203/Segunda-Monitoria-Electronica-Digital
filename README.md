@@ -54,7 +54,7 @@ Los datos de luz se envían cada 1 segundo a Ubidots y se imprimen en el monitor
 
 ## 📈 Visualización
 
-Una vez conectado y ejecutando el código, podrás ver el valor de luz reportado desde el dispositivo `monitoria` en Ubidots en tiempo real. Puedes crear dashboards personalizados con widgets de tipo "gauge" o "historical graph".
+Una vez conectado y ejecutando el código, podrás ver el valor de luz reportado desde el dispositivo `io` en Ubidots en tiempo real. Puedes crear dashboards personalizados con widgets de tipo "gauge" o "historical graph".
 
 ---
 
