@@ -16,7 +16,7 @@ Este proyecto permite **monitorear la cantidad de luz ambiente** mediante un sen
 ### 🧠 Conexiones
 | Componente | Pin ESP32 |
 |------------|-----------|
-| LDR        | 13 (ADC)  |
+| LDR        | 34 (ADC)  |
 | LED Rojo   | 27        |
 | LED Amarillo | 25      |
 | LED Verde  | 32        |
