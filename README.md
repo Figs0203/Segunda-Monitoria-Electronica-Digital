@@ -39,9 +39,9 @@ Este proyecto permite **monitorear la cantidad de luz ambiente** mediante un sen
 
 ## 🚦 Lógica de los LEDs
 
-- **Rojo:** luz menor o igual a 10%
-- **Amarillo:** luz entre 11% y 20%
-- **Verde:** luz mayor al 20%
+- **Rojo:** luz menor o igual a 30%
+- **Amarillo:** luz entre 31% y 60%
+- **Verde:** luz mayor al 60%
 
 Los datos de luz se envían cada 1 segundo a Ubidots y se imprimen en el monitor serial.
 

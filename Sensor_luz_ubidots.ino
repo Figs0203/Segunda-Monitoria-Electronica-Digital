@@ -67,11 +67,11 @@ void loop() {
     Serial.println("Nivel de Luz (%): " + String(luz));
 
     // Control de LEDs
-    if (luz <= 10) {
+    if (luz <= 30) {
       digitalWrite(LED_ROJO, HIGH);
       digitalWrite(LED_AMARILLO, LOW);
       digitalWrite(LED_VERDE, LOW);
-    } else if (luz > 10 && luz <= 20) {
+    } else if (luz > 30 && luz <= 60) {
       digitalWrite(LED_ROJO, LOW);
       digitalWrite(LED_AMARILLO, HIGH);
       digitalWrite(LED_VERDE, LOW);
