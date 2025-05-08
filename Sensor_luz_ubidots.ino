@@ -8,7 +8,7 @@
 #define LED_VERDE 32         // Pin para el LED verde
 
 // Constantes de conexión y Ubidots
-const char* UBIDOTS_TOKEN = "BBUS-Fc7P7sKuSvklKyNBosxOWFgj0YgUZ9"; // Token Ubidots
+const char* UBIDOTS_TOKEN = "(Token Ubidots)"; // Token Ubidots
 const char* UBIDOTS_DEVICE_LABEL = "io";  // Nombre del dispositivo
 const char* UBIDOTS_VARIABLE_LABEL = "ldr_luz";  // Variable para la luz
 const char* WIFI_SSID = "Red IoT";               // Nombre red Wi-Fi
